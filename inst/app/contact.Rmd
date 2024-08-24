@@ -16,7 +16,7 @@ To report bugs and/or request features, please use the following GitLab issue ch
   
 If you find **tRigon** useful, please consider citing our publication:
   
-Coming soon :)
+[<b><span style="color:#F17F42">David L. Hölscher, Michael Goedertier, Barbara M. Klinkhammer, Patrick Droste, Ivan G. Costa, Peter Boor, Roman D. Bülow. tRigon: an R package and Shiny App for integrative (path-)omics data analysis, BMC Bioinformatics (2024).](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-024-05721-w)
 
 ------
 <a href= 'https://www.ukaachen.de/kliniken-institute/institut-fuer-pathologie/forschung/labooratory-of-nephropathology/our-interest'><img src='LaBOORatory_logo.png' alt='LaBOORatory' title='LaBOORatory Logo' height='66'/></a>

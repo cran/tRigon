@@ -1,10 +1,9 @@
-781997a18454f12e6cdc4d1547c02853 *DESCRIPTION
+5f0513207417547545df42f278d2bd11 *DESCRIPTION
 e46f1b000cfea7e41b155230c303e768 *NAMESPACE
-587be72976e1e37950240ff719ef479b *NEWS.md
+79d6d4dc65415a6521f05de9cf3874b9 *NEWS.md
 c48104c25443091780157b78836f28e2 *R/run_tRigon.R
-23079a1484d645325f779c7d28bd1248 *README.md
-898c49fbaac0fd8ebf035abc27344b3f *build/vignette.rds
-9acf221f91c9534d8d294ba3765e4c59 *inst/app/contact.Rmd
+33dc7550c7ddd9ca6cbdddd2785826f3 *build/vignette.rds
+94e33a85f3dd17297b00c2c00798a229 *inst/app/contact.Rmd
 06f740807793d80d0fee72a5e9daf80b *inst/app/homepage.Rmd
 830f4eced4622c95d67ae704a506cd09 *inst/app/report_cluster.Rmd
 b57e80b3dd70aebc6545e0e78300e002 *inst/app/report_corr.Rmd
@@ -37,7 +36,7 @@ dae62e7a1c467ee85ec83d891c72ae0d *inst/app/ui-analysis-processData.R
 5fe3514dee66d991e46656e88e6569f5 *inst/app/ui-help-page.R
 afa8b74eea0cbab1d0f46c184696a018 *inst/app/ui-home-page.R
 8a4a468d4f9c83f04d52a42ab12b7cf5 *inst/app/ui-settings-page.R
-dd1173811730e7b4c331bdb6bc6c6fe2 *inst/app/ui.R
+b5eb3c564f19705203f5c078d001477d *inst/app/ui.R
 5ffe67b64b801341d01aa859840f7a98 *inst/app/www/LaBOORatory_logo.png
 b5226964dc81af4dc3b5daec0d66b12e *inst/app/www/RWTH_logo.png
 a81f0ae9300d2ac8ecbcfd56a8d5ff52 *inst/app/www/favicon.png
@@ -45,9 +44,9 @@ bac7c1c7c92e2d0f74f128050450131b *inst/app/www/tRigon_Logo.svg
 d89fd1d43884ba9dfdf83eb112ae9751 *inst/app/www/tRigon_icon.png
 a81f0ae9300d2ac8ecbcfd56a8d5ff52 *inst/app/www/tRigon_logo.png
 15ca49f04fe818c0ca73d6998b0d5bdb *inst/app/www/theme.css
-e2f656377a773cb4fd25efba3edff631 *inst/doc/tRigon.R
+c83e185e0945779d218bbabbe5823be3 *inst/doc/tRigon.R
 af0b3a9178fa4e524fc9ef52fb0e6e2e *inst/doc/tRigon.Rmd
-92ef05806e7e903934b72c3c7d86d167 *inst/doc/tRigon.html
+7d53f501d844397f034f00c530a695f3 *inst/doc/tRigon.html
 3ec238f6ac6a0edc418de3fc7fb54a89 *man/run_tRigon.Rd
 af0b3a9178fa4e524fc9ef52fb0e6e2e *vignettes/tRigon.Rmd
 36361ab70e1db9b267597028cd80540a *vignettes/tRigon_Figure1.png

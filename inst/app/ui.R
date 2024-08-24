@@ -83,6 +83,6 @@ ui <- shinydashboardPlus::dashboardPage(
   ## footer
   footer = dashboardFooter(
     left = "LaBOORatory of Nephropathology, RWTH Aachen University",
-    right = "Copyright (C) 2023, code licensed under GPL-3"
+    right = "Copyright (C) 2024, code licensed under GPL-3"
   )
 )
